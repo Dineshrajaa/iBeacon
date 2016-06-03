@@ -4,9 +4,10 @@
     <description>
         Example app that monitors and ranges for beacons.
     </description>
-    <author email="mikael@evothings.com" href="http://evothings.com">
-        Mikael Kindborg
+    <author email="dineshrajaa.93@gmail.com" href="http://google.com">
+        Dinesh Raja
     </author>
+    <preference name="android-build-tool" value="gradle" />
     <content src="index.html" />
     <xcontent src="http://192.168.43.131:4042" />
     <access origin="*" />
